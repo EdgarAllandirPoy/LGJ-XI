@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-image: url(https://68.media.tumblr.com/19cce023bf816bb43bf76dafea75e7ce/tumblr_oatuvk7ofh1txeruoo2_r1_500.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+h1 {
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: white;
+}
+
+input,
+button {
+    font-size: 1em;
+    padding: 10px;
+}
+
+#result {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.636);
+    text-decoration: rgb(0, 0, 0);
+    
+}
